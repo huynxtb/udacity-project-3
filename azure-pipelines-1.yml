@@ -1,0 +1,28 @@
+name: $(Date:yyyyMMdd)$(Rev:.r)
+
+variables:
+  - group: az-pipeline-config
+
+pool: Azure Pipelines
+
+stages:
+  - stage: Build
+    jobs:
+    - job: Build
+      pool:
+          name: Azure Pipelines
+      steps:
+      - script: |
+          wget -q https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/packages-microsoft-prod.deb
+          sudo dpkg -i packages-microsoft-prod.deb
+          sudo apt-get update
+          sudo apt-get install -y dotnet-sdk-6.0
+        displayName: 'Install .NET SDK 6.0'
+      - script: dotnet --version
+        displayName: 'Build .NET project'
+      - script: |
+          cd ~/work/1/s/fakerestapi/FakeRESTApi.Web
+          dotnet build --configuration release
+          ls /bin/release/net6.0
+          echo "Build done"
+        displayName: 'Build done'

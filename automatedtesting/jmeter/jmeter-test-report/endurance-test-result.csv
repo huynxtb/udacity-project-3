@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1698311682884,856,Get ALL Books,200,OK,Endurance Test 1-8,text,true,,902542,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,265,0,132
+1698311682337,1434,Get ALL Books,200,OK,Endurance Test 1-2,text,true,,920266,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,725,0,628
+1698311682330,1439,Get ALL Books,200,OK,Endurance Test 1-1,text,true,,902850,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,731,0,637
+1698311683086,681,Get ALL Books,200,OK,Endurance Test 1-10,text,true,,908313,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,289,0,217
+1698311682687,1068,Get ALL Books,200,OK,Endurance Test 1-6,text,true,,909001,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,381,0,278
+1698311682587,1196,Get ALL Books,200,OK,Endurance Test 1-5,text,true,,908078,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,494,0,381
+1698311682785,997,Get ALL Books,200,OK,Endurance Test 1-7,text,true,,887571,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,344,0,189
+1698311682390,1376,Get ALL Books,200,OK,Endurance Test 1-3,text,true,,891824,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,698,0,576
+1698311682990,817,Get ALL Books,200,OK,Endurance Test 1-9,text,true,,920047,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,268,0,198
+1698311682497,1317,Get ALL Books,200,OK,Endurance Test 1-4,text,true,,915097,179,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,630,0,472
+1698311683797,37,Post Books,200,OK,Endurance Test 1-1,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,37,0,0
+1698311683797,37,Post Books,200,OK,Endurance Test 1-6,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,37,0,0
+1698311683797,38,Post Books,200,OK,Endurance Test 1-10,text,true,,828,420,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,38,0,0
+1698311683801,35,Post Books,200,OK,Endurance Test 1-5,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,35,0,0
+1698311683803,34,Post Books,200,OK,Endurance Test 1-7,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,34,0,0
+1698311683797,40,Post Books,200,OK,Endurance Test 1-2,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,40,0,0
+1698311683805,36,Post Books,200,OK,Endurance Test 1-3,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,35,0,0
+1698311683807,35,Post Books,200,OK,Endurance Test 1-9,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,35,0,0
+1698311683796,48,Post Books,200,OK,Endurance Test 1-8,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,48,0,0
+1698311683815,35,Post Books,200,OK,Endurance Test 1-4,text,true,,824,416,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books,35,0,0
+1698311683836,35,PUT Book,200,OK,Endurance Test 1-10,text,true,,828,422,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/10,35,0,0
+1698311683837,35,PUT Book,200,OK,Endurance Test 1-5,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/5,35,0,0
+1698311683838,35,PUT Book,200,OK,Endurance Test 1-2,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/2,35,0,0
+1698311683841,38,PUT Book,200,OK,Endurance Test 1-3,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/3,38,0,0
+1698311683835,44,PUT Book,200,OK,Endurance Test 1-6,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/6,44,0,0
+1698311683837,43,PUT Book,200,OK,Endurance Test 1-7,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/7,43,0,0
+1698311683842,39,PUT Book,200,OK,Endurance Test 1-9,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/9,39,0,0
+1698311683844,38,PUT Book,200,OK,Endurance Test 1-8,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/8,37,0,0
+1698311683850,34,PUT Book,200,OK,Endurance Test 1-4,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/4,34,0,0
+1698311683835,53,PUT Book,200,OK,Endurance Test 1-1,text,true,,824,417,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/1,53,0,0
+1698311683871,36,Delete Book,200,OK,Endurance Test 1-10,,true,,611,268,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/10,36,0,0
+1698311683873,35,Delete Book,200,OK,Endurance Test 1-2,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/2,35,0,0
+1698311683879,34,Delete Book,200,OK,Endurance Test 1-6,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/6,34,0,0
+1698311683874,40,Delete Book,200,OK,Endurance Test 1-5,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/5,40,0,0
+1698311683880,35,Delete Book,200,OK,Endurance Test 1-7,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/7,35,0,0
+1698311683882,35,Delete Book,200,OK,Endurance Test 1-8,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/8,35,0,0
+1698311683879,40,Delete Book,200,OK,Endurance Test 1-3,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/3,40,0,0
+1698311683885,35,Delete Book,200,OK,Endurance Test 1-4,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/4,35,0,0
+1698311683889,33,Delete Book,200,OK,Endurance Test 1-1,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/1,33,0,0
+1698311683881,45,Delete Book,200,OK,Endurance Test 1-9,,true,,611,267,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/9,45,0,0
+1698311683908,68,Get Book,200,OK,Endurance Test 1-10,text,true,,6012,182,10,10,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/10,68,0,0
+1698311683908,78,Get Book,200,OK,Endurance Test 1-2,text,true,,6679,181,9,9,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/2,78,0,0
+1698311683914,75,Get Book,200,OK,Endurance Test 1-5,text,true,,5892,181,8,8,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/5,75,0,0
+1698311683915,80,Get Book,200,OK,Endurance Test 1-6,text,true,,5271,181,7,7,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/6,80,0,0
+1698311683919,118,Get Book,200,OK,Endurance Test 1-3,text,true,,5562,181,6,6,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/3,117,0,0
+1698311683926,114,Get Book,200,OK,Endurance Test 1-9,text,true,,5531,181,5,5,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/9,114,0,0
+1698311683917,133,Get Book,200,OK,Endurance Test 1-8,text,true,,4614,181,4,4,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/8,133,0,0
+1698311683920,140,Get Book,200,OK,Endurance Test 1-4,text,true,,3413,181,3,3,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/4,140,0,0
+1698311683922,164,Get Book,200,OK,Endurance Test 1-1,text,true,,5117,181,2,2,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/1,164,0,0
+1698311683915,174,Get Book,200,OK,Endurance Test 1-7,text,true,,5124,181,1,1,https://udacity-phuongnv19-project03-app-appservices.azurewebsites.net/api/v1/Books/7,174,0,0
